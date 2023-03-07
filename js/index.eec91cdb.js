@@ -65498,7 +65498,7 @@ const Qo = {
     NODE_ENV: "production",
     SENTRY_DSN: "https://a5966179d3cb45839a7048f57678bc68@o166489.ingest.sentry.io/6270841",
     PLAYER_VERSION: JSON.parse('{"name":"embed-player-frontend","version":"0.9.0","repository":"git@github.com:restreamio/embed-player-frontend.git","license":"MIT","author":{"name":"Restream","email":"team@restream.io","url":"https://player.restream.io"},"scripts":{"start":"parcel src/index.html","dev":"run-p start test","prebuild":"run-s clean","build":"parcel build src/index.html","clean":"rimraf ./dist","wipe":"rimraf ./dist ./dist-test ./.parcel-cache","test":"parcel test/index.html --open --port=1236 --dist-dir=dist-test"},"dependencies":{"@sentry/react":"^6.19.1","@sentry/tracing":"^6.19.1","aws-iot-device-sdk":"^2.2.11","bowser":"^2.11.0","date-fns":"^2.28.0","deepmerge":"^4.2.2","downshift":"^7.0.4","hls.js":"^1.1.5","react":"^17.0.2","react-dom":"^17.0.2","react-query":"^3.34.16","use-debounce":"^8.0.1","uuid":"^8.3.2"},"devDependencies":{"@parcel/transformer-sass":"2.5.0","@types/aws-iot-device-sdk":"^2.2.4","@types/hls.js":"^1.0.0","@types/react":"^17.0.40","@types/react-dom":"^17.0.13","@types/uuid":"^8.3.4","buffer":"^6.0.3","crypto-browserify":"^3.12.0","eslint":"^8.14.0","eslint-config-react-app":"^7.0.1","eslint-plugin-simple-import-sort":"^7.0.0","events":"^3.3.0","npm-run-all":"^4.1.5","parcel":"2.5.0","path-browserify":"^1.0.1","postcss":"^8.0.0","postcss-modules":"^4.3.0","prettier":"^2.5.1","process":"^0.11.10","querystring-es3":"^0.2.1","rimraf":"^3.0.2","stream-browserify":"^3.0.0","typescript":"^4.7.2","url":"^0.11.0","util":"^0.12.4"}}').version,
-    API_HOST: "https://t.cvclive.top"
+    API_HOST: "https://live.shubiao.live/"
 };
 class Xo extends Error {
     constructor(e, t) {
